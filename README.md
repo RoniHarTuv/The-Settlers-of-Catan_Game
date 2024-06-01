@@ -1,4 +1,4 @@
-# The-Settlers-of-Catan_Game
+# The-Settlers-of-Catan Game
 "Settlers of Catan" is a familiar board game. This project presents an implementation for the game. Attached is a "Readme" file and a file showing the game board. In this project, the use of inheritance, classes and functions are mainly reflected in ritual.
 
 המתיישבים של קטאן הוא משחק קופסא ל-3 עד 4 שחקנים המשלב הן חשיבה אסטרטגית, ניהול משאבים ויכולת מסחר. מטרת המשחק היא לצבור ראשון 10 נקודות ניצחון. את הוראות המשחק המלא ניתן למצוא כאן: https://www.hakubia.com/wp-content/uploads/2021/01/%D7%A7%D7%98%D7%90%D7%9F.pdf.
