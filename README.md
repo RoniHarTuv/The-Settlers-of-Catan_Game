@@ -47,7 +47,7 @@ __מחלקות המשחק והיררכיה__
 
 __ספריות__
 
-במימוש נעשה שימוש עיקרי בספריות הבאות: <vector> <stdexcept> <random> <map> <string> <iostream>
+במימוש נעשה שימוש עיקרי בספריות הבאות: vector random map string iostream
 
 
 
