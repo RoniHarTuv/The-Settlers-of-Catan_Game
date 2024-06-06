@@ -57,7 +57,10 @@ __מחלקות המשחק והיררכיה__
 
 __ספריות__
 
-במימוש נעשה שימוש עיקרי בספריות הבאות: vector random map string iostream
+במימוש נעשה שימוש עיקרי בספריות הבאות:  vector random map string iostream
+
+להלן פלט הרצת valgrind על קובץ הdemo:
+![image](https://github.com/RoniHarTuv/The-Settlers-of-Catan_Game/assets/149065885/55f56992-d864-4889-9c9b-ff100fe8bea8)
 
 
 
